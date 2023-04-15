@@ -31,14 +31,14 @@ The KCNA is a certification aimed for individuals who want to advance to the pro
 
 ## KCNA topics overview
 
-- [] [Kubernetes Fundamentals - 46%](#small_blue_diamond-1-kubernetes-fundamentals---46)
-- [] [Container Orchestration - 22%](#small_blue_diamond-2-container-orchestration---22)
-- [] [Cloud Native Architecture - 16%](#small_blue_diamond-3-cloud-native-architecture---16)
-- [] [Cloud Native Observability - 8%](#small_blue_diamond-4-cloud-native-observability---8)
-- [] [Cloud Native Application Delivery - 8%](#small_blue_diamond-5-cloud-native-application-delivery---8)
+- [x] [Kubernetes Fundamentals - 46%](#small_blue_diamond-1-kubernetes-fundamentals---46)
+- [x] [Container Orchestration - 22%](#small_blue_diamond-2-container-orchestration---22)
+- [x] [Cloud Native Architecture - 16%](#small_blue_diamond-3-cloud-native-architecture---16)
+- [x] [Cloud Native Observability - 8%](#small_blue_diamond-4-cloud-native-observability---8)
+- [x] [Cloud Native Application Delivery - 8%](#small_blue_diamond-5-cloud-native-application-delivery---8)
 
 ## Practice questions for KCNA
-- [] [Practice questions](./mock-exam-questions/questions.md)
+- [x] [Practice questions](./mock-exam-questions/questions.md)
 
 #### Extra helpful materials
 
